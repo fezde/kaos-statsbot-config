@@ -1,11 +1,12 @@
 {
-    "current_season_start": "2025-07-08",
-    "current_season_end": "2025-08-08T08:00:00",
-    "current_season_name": "Chapter 6 - Season 3",
-    "next_season_name": "Chapter 6 - Season 4",
+    "current_season_start": "2025-08-08",
+    "current_season_end": "2025-11-01T08:00:00",
+    "current_season_name": "Chapter 6 - Season 4",
+    "next_season_name": "Chapter 6 - Mini Season 2",
     "level_threshold_lower": 100,
     "level_threshold_upper": 200,
     "comments": [
-        "See https://www.fortnitexp.net/ for good values"
+        "See https://www.fortnitexp.net/ for good values",
+        "https://fortnite.gg/season-countdown also has good info"
     ]
 }
